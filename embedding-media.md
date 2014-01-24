@@ -2,7 +2,7 @@
 Embedding media, such as videos and images, is easy with HelpPag.es.
 
 ## Images
-![shoe](/img/crawling-shoe.gif)
+![shoe](http://i.imgur.com/ML8MaQq.gif)
 
 The standard syntax with Markdown for images is `![title here](image-url-here)`.  Not too bad, right?  Trouble is, you'd normally still need to worry about hosting your image online and getting it somewhere that your pages have access too.  Bit of a pain.  With HelpPag.es, we wanted to make this easier.  To embed an image, simply drop your image into your repo and link to it relative to the root path.  
 
