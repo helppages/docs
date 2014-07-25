@@ -10,12 +10,10 @@
 Getting docs into HelpPag.es is easy.  Simply write them locally in Markdown using your favorite editor, push them into a public github repo and tell us where to pull them from.  We'll make them browsable, searchable, beautiful and sprinkle in some awesome analytics.  Your docs can live at your domain and will always kept up to date as you push changes to the repo.
 
 ### Theming
-While we provide several awesome themes out of the box, we also offer some powerful theming capabilities.  To use them, simply drop a css file in your docs repo.  We'll take care of the rest.
-
-To get started with custom theming, head over to the [Themes Section](/theming.md).
+While we happen to think our default template is pretty cool, we understand the need to make something your own.  HelpPag.es has built in support for advanced customization with full css support and even layouts to let you customize your header and footer.  To learn more, check out the [theming docs](/theming).
 
 ### The Dashboard
-Once you've given us your GitHub repo, you're done - there's no need to do anything else.  There are, however, a few features that you may want to take advantage of on our dashboard.  You can learn about them in the [Dashboard Section](/exploring-the-dashboard.md).
+Once you've given us your GitHub repo, you're done - there's no need to do anything else.  There are, however, a few features that you may want to take advantage of on our dashboard.  You can learn about them in the [Dashboard Section](/exploring-the-dashboard).
 
 ## In the Wild
  * [Stretchr Docs](http://docs.stretchr.com)
