@@ -7,7 +7,7 @@ HelpPag.es has built in support for beautiful syntax highlighting on your code. 
     ```ruby
       def say_hi(name)
         # comments get handled too!
-        "Hello #{name}"
+        puts "Hello #{name}"
       end
      ```
 
@@ -17,6 +17,6 @@ yields:
 ```ruby
 def say_hi(name)
   # comments get handled too!
-  "Hello #{name}"
+  puts "Hello #{name}"
 end
 ```
