@@ -3,14 +3,14 @@ HelpPag.es has built in support for beautiful syntax highlighting on your code. 
 
 ## Example
 
-```
- ```ruby
-  def say_hi(name)
-    # comments get handled too!
-    "Hello #{name}"
-  end
- ```
-```
+
+    ```ruby
+      def say_hi(name)
+        # comments get handled too!
+        "Hello #{name}"
+      end
+     ```
+
 
 yields:
 
